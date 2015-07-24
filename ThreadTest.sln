@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadTest", "ThreadTest\ThreadTest.vcxproj", "{918018E6-4A91-4580-B240-C34CF3A27827}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadTest2", "ThreadTest2\ThreadTest2.vcxproj", "{6E33A26F-9A13-4F97-8996-A0EDF869F03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918018E6-4A91-4580-B240-C34CF3A27827}.Debug|Win32.ActiveCfg = Debug|Win32
+		{918018E6-4A91-4580-B240-C34CF3A27827}.Debug|Win32.Build.0 = Debug|Win32
+		{918018E6-4A91-4580-B240-C34CF3A27827}.Debug|x64.ActiveCfg = Debug|x64
+		{918018E6-4A91-4580-B240-C34CF3A27827}.Debug|x64.Build.0 = Debug|x64
+		{918018E6-4A91-4580-B240-C34CF3A27827}.Release|Win32.ActiveCfg = Release|Win32
+		{918018E6-4A91-4580-B240-C34CF3A27827}.Release|Win32.Build.0 = Release|Win32
+		{918018E6-4A91-4580-B240-C34CF3A27827}.Release|x64.ActiveCfg = Release|x64
+		{918018E6-4A91-4580-B240-C34CF3A27827}.Release|x64.Build.0 = Release|x64
+		{6E33A26F-9A13-4F97-8996-A0EDF869F03B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6E33A26F-9A13-4F97-8996-A0EDF869F03B}.Debug|Win32.Build.0 = Debug|Win32
+		{6E33A26F-9A13-4F97-8996-A0EDF869F03B}.Debug|x64.ActiveCfg = Debug|x64
+		{6E33A26F-9A13-4F97-8996-A0EDF869F03B}.Debug|x64.Build.0 = Debug|x64
+		{6E33A26F-9A13-4F97-8996-A0EDF869F03B}.Release|Win32.ActiveCfg = Release|Win32
+		{6E33A26F-9A13-4F97-8996-A0EDF869F03B}.Release|Win32.Build.0 = Release|Win32
+		{6E33A26F-9A13-4F97-8996-A0EDF869F03B}.Release|x64.ActiveCfg = Release|x64
+		{6E33A26F-9A13-4F97-8996-A0EDF869F03B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
